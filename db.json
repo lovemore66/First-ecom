@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "_version" : 4,
+      "email" : "warren@picup.co.za",
+      "is_deleted" : false,
+      "name" : "Warren Pieterse",
+      "phone" : "0824941854",
+      "user_id" : "user-05c76a26-37ac-417d-be75-c6d7d585d009"
+    },
+    {
+      "_version" : 3,
+    "email" : "pieter+test1@picup.co.za",
+    "is_deleted" : false,
+    "name" : "Pieter Test1",
+    "phone" : "0832279967",
+    "user_id" : "user-0b1e2132-6aaf-41e2-b64f-c9c0418f165b"
+    },
+    {
+      "_version" : 1,
+    "email" : "ameen@picup.co.za",
+    "is_deleted" : false,
+    "name" : "Ameen Gasant",
+    "phone" : "0837911680",
+    "user_id" : "user-24799727-b0ed-4a98-a8f0-0e93c89cfd2f"
+    },
+    {
+      "_version" : 4,
+    "email" : "mpho@picup.co.za",
+    "is_deleted" : false,
+    "name" : "Mpho Makgakga",
+    "phone" : "0615369811",
+    "user_id" : "user-29526ca2-f56a-44aa-a4d3-d47d231ae084"
+    },
+    {
+      "_version" : 3,
+    "email" : "matt@picup.co.za",
+    "is_deleted" : false,
+    "name" : "Matt Strybis",
+    "phone" : "0836615259",
+    "user_id" : "user-313948ce-c2b9-415a-97df-f687e84a8879"
+    }
+  ]
+
+  
+}
